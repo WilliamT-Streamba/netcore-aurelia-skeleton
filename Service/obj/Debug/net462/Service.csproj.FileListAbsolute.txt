@@ -1,0 +1,8 @@
+C:\Users\William Tetlow\Documents\GitHub\netcore-aurelia-skeleton\Service\bin\Debug\net462\Service.dll
+C:\Users\William Tetlow\Documents\GitHub\netcore-aurelia-skeleton\Service\bin\Debug\net462\Service.pdb
+C:\Users\William Tetlow\Documents\GitHub\netcore-aurelia-skeleton\Service\bin\Debug\net462\EntityFramework.SqlServer.dll
+C:\Users\William Tetlow\Documents\GitHub\netcore-aurelia-skeleton\Service\bin\Debug\net462\EntityFramework.dll
+C:\Users\William Tetlow\Documents\GitHub\netcore-aurelia-skeleton\Service\obj\Debug\net462\Service.csprojResolveAssemblyReference.cache
+C:\Users\William Tetlow\Documents\GitHub\netcore-aurelia-skeleton\Service\obj\Debug\net462\Service.AssemblyInfo.cs
+C:\Users\William Tetlow\Documents\GitHub\netcore-aurelia-skeleton\Service\obj\Debug\net462\Service.dll
+C:\Users\William Tetlow\Documents\GitHub\netcore-aurelia-skeleton\Service\obj\Debug\net462\Service.pdb

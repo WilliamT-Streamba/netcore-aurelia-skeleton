@@ -1,0 +1,8 @@
+C:\Users\William Tetlow\Documents\GitHub\netcore-aurelia-skeleton\Persistence\bin\Debug\net462\Persistence.dll
+C:\Users\William Tetlow\Documents\GitHub\netcore-aurelia-skeleton\Persistence\bin\Debug\net462\Persistence.pdb
+C:\Users\William Tetlow\Documents\GitHub\netcore-aurelia-skeleton\Persistence\bin\Debug\net462\EntityFramework.SqlServer.dll
+C:\Users\William Tetlow\Documents\GitHub\netcore-aurelia-skeleton\Persistence\bin\Debug\net462\EntityFramework.dll
+C:\Users\William Tetlow\Documents\GitHub\netcore-aurelia-skeleton\Persistence\obj\Debug\net462\Persistence.csprojResolveAssemblyReference.cache
+C:\Users\William Tetlow\Documents\GitHub\netcore-aurelia-skeleton\Persistence\obj\Debug\net462\Persistence.AssemblyInfo.cs
+C:\Users\William Tetlow\Documents\GitHub\netcore-aurelia-skeleton\Persistence\obj\Debug\net462\Persistence.dll
+C:\Users\William Tetlow\Documents\GitHub\netcore-aurelia-skeleton\Persistence\obj\Debug\net462\Persistence.pdb

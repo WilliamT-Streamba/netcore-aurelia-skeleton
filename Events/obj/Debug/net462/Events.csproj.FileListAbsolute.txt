@@ -1,0 +1,6 @@
+C:\Users\William Tetlow\Documents\GitHub\netcore-aurelia-skeleton\Events\bin\Debug\net462\Events.dll
+C:\Users\William Tetlow\Documents\GitHub\netcore-aurelia-skeleton\Events\bin\Debug\net462\Events.pdb
+C:\Users\William Tetlow\Documents\GitHub\netcore-aurelia-skeleton\Events\obj\Debug\net462\Events.csprojResolveAssemblyReference.cache
+C:\Users\William Tetlow\Documents\GitHub\netcore-aurelia-skeleton\Events\obj\Debug\net462\Events.AssemblyInfo.cs
+C:\Users\William Tetlow\Documents\GitHub\netcore-aurelia-skeleton\Events\obj\Debug\net462\Events.dll
+C:\Users\William Tetlow\Documents\GitHub\netcore-aurelia-skeleton\Events\obj\Debug\net462\Events.pdb

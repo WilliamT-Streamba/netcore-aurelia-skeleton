@@ -1,0 +1,34 @@
+{
+  "version": 2,
+  "targets": {
+    ".NETFramework,Version=v4.6.2": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.6.2": []
+  },
+  "packageFolders": {
+    "C:\\Users\\William Tetlow\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\William Tetlow\\Documents\\GitHub\\netcore-aurelia-skeleton\\Events\\Events.csproj",
+      "projectName": "Events",
+      "projectPath": "C:\\Users\\William Tetlow\\Documents\\GitHub\\netcore-aurelia-skeleton\\Events\\Events.csproj",
+      "outputPath": "C:\\Users\\William Tetlow\\Documents\\GitHub\\netcore-aurelia-skeleton\\Events\\obj\\",
+      "projectStyle": "PackageReference",
+      "originalTargetFrameworks": [
+        "net462"
+      ],
+      "frameworks": {
+        "net462": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net462": {}
+    }
+  }
+}
